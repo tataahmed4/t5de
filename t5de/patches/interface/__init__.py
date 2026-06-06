@@ -5,3 +5,6 @@ from ShopTogetherPatch import ShopTogetherPatch
 from AvatarCardPatch import AvatarCardPatch
 from ShopModePatch import ShopModePatch
 from RoomCardPatch import RoomCardPatch
+from ThemeScalePatch import ThemeScalePatch
+from MarketWearPatch import MarketWearPatch
+from DesignerSearchPatch import DesignerSearchPatch
