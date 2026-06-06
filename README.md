@@ -17,6 +17,11 @@ A modified IMVU client that unlocks useful features.
   - Stop crashes from sending reports to IMVU
 * Removed annoying 'Shop Together' upsell ads
 * See AP products regardless of status
+* Market wear system: AP/GA badge plus a one-click **Wear** button on every shop product
+* Advanced designer search by name or ID, listing all products even for suspended accounts
+* Integrated `themes.css` font/size system driven by a single `--scale` variable with a live UI-size slider
+
+See [GUIDE.md](GUIDE.md) for a full explanation of the new systems.
 
 # Install
 
